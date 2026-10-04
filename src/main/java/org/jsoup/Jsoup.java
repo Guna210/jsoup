@@ -22,6 +22,7 @@ import static org.jsoup.internal.SharedConstants.DummyUri;
 
  @author Jonathan Hedley */
 
+ // Modified by Akbho Gunasekara (MS26909264) for IT5080 Lab 5
 public class Jsoup {
     private Jsoup() {}
 
